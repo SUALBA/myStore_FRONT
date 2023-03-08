@@ -1,0 +1,47 @@
+h4 {
+    font-size: 24px;
+    color :rgb(136, 16, 90);
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,151,1) 100%);
+
+}
+
+.container-products{
+    
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,151,1) 100%);
+}
+
+.delete-btn{
+    position: relative;
+    
+   
+}
+.add-container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 99%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,151,1) 100%);
+
+}
+
+
+.add-btn{
+    display: flex;  
+    align-items: center;  
+    padding: 8px 16px;  
+    border-radius: 10px;  
+    font-size: 14px;  
+    cursor: pointer;  
+    background-color: rgba(163, 4, 79, 0.467);  
+    color: white;  
+    border: none;
+    width: 50px;
+}
